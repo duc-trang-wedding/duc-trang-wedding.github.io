@@ -1,7 +1,7 @@
 const efcc_countdown = new countdown({
   target: '.countdown',
-  dayWord: ' days',
-  hourWord: ' hours',
-  minWord: ' mins',
-  secWord: ' secs'
+  dayWord: ' ngày',
+  hourWord: ' giờ',
+  minWord: ' phút',
+  secWord: ' giây'
 });
