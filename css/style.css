@@ -598,7 +598,8 @@ a {
 
 }
 .slideshow-container {
-
+  overflow: auto;
+  white-space: nowrap;
   max-width: 700px;
   position: relative;
   margin: auto;
