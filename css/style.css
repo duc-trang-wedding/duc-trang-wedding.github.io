@@ -742,8 +742,8 @@ a {
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
-  width: 700px;
-  height: auto;
+  max-width:100%;
+  height:auto;
   margin-right: 50px;
   border-radius: 10px;
   background: #eee;
