@@ -744,7 +744,7 @@ a {
   flex-shrink: 0;
   max-width:100%;
   height:auto;
-  margin-right: 50px;
+  margin-right: 10px;
   border-radius: 10px;
   background: #eee;
   transform-origin: center center;
